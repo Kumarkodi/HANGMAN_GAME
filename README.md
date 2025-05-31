@@ -39,6 +39,7 @@ HANGMAN_GAME/
    git clone https://github.com/Kumarkodi/HANGMAN_GAME.git
    ```
 2. **Open `index.html` in your browser to start playing.**
+3. https://kumarkodi.github.io/HANGMAN_GAME/
 
 ## Customization
 
